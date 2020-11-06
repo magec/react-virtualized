@@ -1,5 +1,9 @@
 ## Changelog
 
+##### 9.23.0
+
+- 🐛 Fix circular dependency in react-virtualized ([velusgautam](https://github.com/velusgautam) - [#1609](https://github.com/bvaughn/react-virtualized/pull/1609))
+
 ##### NEXT
 
 - Update peer dependencies to allow React 17 ([levenleven](https://github.com/levenleven) - [#1625](https://github.com/bvaughn/react-virtualized/pull/1625))
